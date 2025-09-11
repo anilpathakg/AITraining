@@ -1,1 +1,1 @@
-This is just a sample program to demonstarte the Prompt Engineering - Zero Shot method.
+These are the various examples of Prompt Engineering techniques demonstrated with the help of OpenAI gpt-4o-mini model.
