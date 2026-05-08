@@ -1,6 +1,9 @@
 # Anil Pathak's Prompt Engineering : Example - 3: Chain of Thoughts:
 
 import os
+import sys
+from openai import OpenAI
+from google.colab import userdata
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
