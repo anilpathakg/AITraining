@@ -1,5 +1,8 @@
 # Anil Pathak's Prompt Engineering : Example - 2: Few Shot :
 import os
+import sys
+from openai import OpenAI
+from google.colab import userdata
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
