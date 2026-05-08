@@ -4,6 +4,9 @@
 import os
 import json
 import requests
+import sys
+from openai import OpenAI
+from google.colab import userdata
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
